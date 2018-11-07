@@ -1,6 +1,6 @@
 {
   "name": "baidupankey",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "查询百度网盘提取码",
   "main": "index.js",
   "bin": {
